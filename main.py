@@ -1,2 +1,2 @@
 import pywhatkit
-pywhatkit.sendwhatmsg('+918269453153','You are awesome',17,2)
+pywhatkit.sendwhatmsg('+910000000000','You are awesome',17,2)
